@@ -2,6 +2,10 @@
 
 [![CoroNet Video Explaining the method](http://img.youtube.com/vi/D_jKHQ0AHQA/0.jpg)](http://www.youtube.com/watch?v=D_jKHQ0AHQA)
 
+## What it does
+Our project CoroNet wants to identify high-risk areas where the virus is spreading very fast. We want to use the genetic information of the virus and the similarities between them to identify hotspots with fast evolving virus. Our goal is to slow down the infection spread of the virus and to flatten the curve when we are able to identify early the high-risk areas and isolate them from other regions.
+We use genomic sequences from [GISAID](https://www.gisaid.org/) to build a [phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree) of the virus. From that, we can infer the direction of the spread by comparing the virus sequences taken from patients.
+
 ## Installation
 You need python and R installed. You will need the following python packages:
 * matplotlib
