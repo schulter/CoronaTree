@@ -1,0 +1,31 @@
+
+*** These modified files were found in JOE when it aborted on Fri Apr 17 13:05:29 2020
+*** JOE was aborted because the terminal closed
+
+*** File '/local/home/pk/Projects/CoronaTree/.git/COMMIT_EDITMSG'
+Added sequences and data from charite
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+#
+# Committer: Prabhav Kalaghatgi <pk@lap-13-52.mpi-inf.mpg.de>
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   charite-SARS-CoV-2.fasta.gz
+#	new file:   charite-SARS-CoV-2.tsv.gz
+#
+
+*** File '(Unnamed)'
+svn-commit.tmp
+svn-commit.tmp
+svn-commit.tmp
+/local/home/pk/Projects/CoronaTree/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
